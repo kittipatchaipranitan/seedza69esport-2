@@ -5,6 +5,7 @@ function index() {
     <>
     <h1>Seedza69 Esport</h1>
     <p>ข้อความเนื้อหา 555</p>
+      console.log("AAAAAAAA")
     </>
   )
 }
